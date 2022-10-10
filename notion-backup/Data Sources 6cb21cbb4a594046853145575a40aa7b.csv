@@ -1,5 +1,15 @@
-﻿Name,Tags,Scope,Quick description,Max Rsolution,URL,Last update
-DfT Road Traffic Statistics,Flows,National,,,https://roadtraffic.dft.gov.uk/,2021
-WebTRIS,Flows,National,,,https://webtris.highwaysengland.co.uk/,Live
-Bristol - Traffic Count Data,Flows,Local,Hourly traffic flow data from re - purposed SCOOT traffic counters. These are induction loop counters embedded in roads that detect when a vehicle passes that point. They do not discriminate between vehicle types.,Hourly,https://opendata.bristol.gov.uk/explore/dataset/fact-traffic-counts/information/?disjunctive.countdevicedescription&disjunctive.link,"June 12, 2020 5:15 PM"
-,,,,,,
+﻿Name,Tags,Scope,Quick description,Max Rsolution,URL,Last update,Other,Type
+DfT Road Traffic Statistics,"Fleet Split, Flows",National,"MRN data statistics
+released every year",AADT,https://roadtraffic.dft.gov.uk/,2021,,Public
+WebTRIS,"Fleet Split, Flows, Speeds",National,"15 min historic interval, including speeds in the network covered by National Highways",<Hourly,https://webtris.highwaysengland.co.uk/,Live,Processed metrics JT reliability etc available here: https://opendata.nationalhighways.co.uk/datasets/highwaysengland::ris2-average-speed-2020-21/about,Public
+Bristol - Traffic Count Data,Flows,Local,Hourly traffic flow data from re - purposed SCOOT traffic counters. These are induction loop counters embedded in roads that detect when a vehicle passes that point. They do not discriminate between vehicle types.,Hourly,https://opendata.bristol.gov.uk/explore/dataset/fact-traffic-counts/information/?disjunctive.countdevicedescription&disjunctive.link,"June 12, 2020 5:15 PM",,Public
+Road traffic Northern Ireland,"Fleet Split, Flows",Regional,,AADT,,2022,,Public
+Calderdale,,Local,Traffic count from 8 counter located around Calderdale,<Hourly,https://dataworks.calderdale.gov.uk/dataset/e5040/traffic-count,2021,,Public
+West Sussex Data,Flows,Local,"Volume, speed and classified traffic data is available to view and download from our traffic data website.
+Data from permanent automatic traffic counter sites is available, together with data from some of the temporary traffic survey sites (which are usually limited to one week of data).
+To access the website you will need to set up an account and agree to the terms and conditions.",TBC,https://www.westsussex.gov.uk/roads-and-travel/traffic-management/traffic-counts/,,,Public-Restricted
+INRIX Speed data,Speeds,National,TrafficMaster like data,<Hourly,https://www.basemap.co.uk/map-data/inrix-speed-data/,On demand,,Private
+York Traffic Counters location,Geographical,Local,,,https://data.yorkopendata.org/dataset/traffic-counters,,Traffic data might become available after the implementation of optima,Public
+Oxfordshire Traffic monitoring,"Flows, Speeds",Local,,AADT,https://www.oxfordshire.gov.uk/residents/roads-and-transport/traffic/transport-monitoring,,,Public
+Herdsfordshire,"Flows, Speeds",Local,,TBC,https://www.hertfordshire.gov.uk/services/highways-roads-and-pavements/speed-awareness-and-driver-training/transport-and-accident-data/transport-and-accident-data.aspx#traffic,,,Public-Restricted
+"NorthEast decommissioned ",,Local,,,https://www.netraveldata.co.uk/,,,

@@ -12,4 +12,9 @@ INRIX Speed data,Speeds,National,TrafficMaster like data,<Hourly,https://www.bas
 York Traffic Counters location,Geographical,Local,,,https://data.yorkopendata.org/dataset/traffic-counters,,Traffic data might become available after the implementation of optima,Public
 Oxfordshire Traffic monitoring,"Flows, Speeds",Local,,AADT,https://www.oxfordshire.gov.uk/residents/roads-and-transport/traffic/transport-monitoring,,,Public
 Herdsfordshire,"Flows, Speeds",Local,,TBC,https://www.hertfordshire.gov.uk/services/highways-roads-and-pavements/speed-awareness-and-driver-training/transport-and-accident-data/transport-and-accident-data.aspx#traffic,,,Public-Restricted
-"NorthEast decommissioned ",,Local,,,https://www.netraveldata.co.uk/,,,
+NorthEast (decommissioned),,Local,,,https://www.netraveldata.co.uk/,,,
+Low Traffic Neighbourhoods,Geographical,Local,"Mapping of different interventions such as LTN, bus gates",,https://www.lowtrafficneighbourhoods.org/,TBC,How to access the data to be confirmed,Public-Restricted
+TomTom,"Flows, Geographical, Speeds","Local, National","Tile and non-tile data with traffic incidents, flows (congestion)",,https://developer.tomtom.com/products/maps-api,,Freemium account available with limited requests per day,Private
+Traffic England,Speeds,National,Live data of the MRN,,https://www.trafficengland.com/help,,it is possible to have live feeds if approved by NH,Public-Restricted
+HERE Traffic API,"Flows, Geographical, Speeds",International,Various feeds (non UK),,http://www.developer.here.com/,,Freemium available,Private
+,,,,,,,,

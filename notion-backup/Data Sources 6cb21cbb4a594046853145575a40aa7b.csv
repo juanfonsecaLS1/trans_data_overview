@@ -17,4 +17,4 @@ Low Traffic Neighbourhoods,Geographical,Local,"Mapping of different intervention
 TomTom,"Flows, Geographical, Speeds","Local, National","Tile and non-tile data with traffic incidents, flows (congestion)",,https://developer.tomtom.com/products/maps-api,,Freemium account available with limited requests per day,Private
 Traffic England,Speeds,National,Live data of the MRN,,https://www.trafficengland.com/help,,it is possible to have live feeds if approved by NH,Public-Restricted
 HERE Traffic API,"Flows, Geographical, Speeds",International,Various feeds (non UK),,http://www.developer.here.com/,,Freemium available,Private
-,,,,,,,,
+Birmingham Datafactory,Flows,Local,"This data has been made available by Birmingham City Council in an 'alpha' state. If people can demonstrate good uses for the data, that will help make the case for it to be improved.",,https://data.birmingham.gov.uk/en/dataset/wm-utmc/resource/1d456ced-0bd5-438e-9a21-3adeb8186c07,,"Probably is not running, it was initially released in 2017 in alpha to assess potential https://github.com/radforaw",Public-Restricted

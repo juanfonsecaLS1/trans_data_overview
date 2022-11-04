@@ -11,7 +11,7 @@ To access the website you will need to set up an account and agree to the terms 
 INRIX Speed data,Speeds,National,TrafficMaster like data,<Hourly,https://www.basemap.co.uk/map-data/inrix-speed-data/,On demand,,Private
 York Traffic Counters location,Geographical,Local,,,https://data.yorkopendata.org/dataset/traffic-counters,,Traffic data might become available after the implementation of optima,Public
 Oxfordshire Traffic monitoring,"Flows, Speeds",Local,,AADT,https://www.oxfordshire.gov.uk/residents/roads-and-transport/traffic/transport-monitoring,,,Public
-Herdsfordshire,"Flows, Speeds",Local,,TBC,https://www.hertfordshire.gov.uk/services/highways-roads-and-pavements/speed-awareness-and-driver-training/transport-and-accident-data/transport-and-accident-data.aspx#traffic,,,Public-Restricted
+Hertsfordshire,"Flows, Speeds",Local,,TBC,https://www.hertfordshire.gov.uk/services/highways-roads-and-pavements/speed-awareness-and-driver-training/transport-and-accident-data/transport-and-accident-data.aspx#traffic,,,Public-Restricted
 NorthEast (decommissioned),,Local,,,https://www.netraveldata.co.uk/,,,
 Low Traffic Neighbourhoods,Geographical,Local,"Mapping of different interventions such as LTN, bus gates",,https://www.lowtrafficneighbourhoods.org/,TBC,How to access the data to be confirmed,Public-Restricted
 TomTom,"Flows, Geographical, Speeds","Local, National","Tile and non-tile data with traffic incidents, flows (congestion)",,https://developer.tomtom.com/products/maps-api,,Freemium account available with limited requests per day,Private
